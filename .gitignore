@@ -6,3 +6,6 @@ Icon?
 # Sensitive folders
 Documentation/
 Coursework Data/
+
+# Virtual env
+venv/
