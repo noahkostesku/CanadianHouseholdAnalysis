@@ -1,0 +1,6 @@
+Misc: 75
+Data Preprocessing: 563
+Clustering: 814
+Regression: aim for 815 100 absolute max
+Executive Summary: 250 + 100 absolute max
+Total: 2517 + 200 absolute max
